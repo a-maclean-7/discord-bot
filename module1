@@ -1,0 +1,2 @@
+public class SimpleCommand implements IModule{
+}
